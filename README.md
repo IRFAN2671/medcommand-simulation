@@ -204,4 +204,4 @@ All settings are in `app/config.py`:
 
 ---
 
-**License:** Academic / Educational Use — University Simulation & Modeling Project
+**License:** Academic / Educational Use — University Simulation & Modeling Project   
