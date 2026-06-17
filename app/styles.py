@@ -1,7 +1,7 @@
 """
 MedCommand — Professional Healthcare Dashboard CSS
 Supports light and dark themes via Streamlit session state.
-"""
+
 
 LIGHT_THEME = {
     "bg": "#f0f4f8",
