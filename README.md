@@ -46,7 +46,7 @@ streamlit run app.py
 ```
 
 Or on Windows, double-click **`run.bat`**.  
-Open **http://localhost:8501** → click **▶ Start** in the sidebar.
+Open **http://localhost:8501** → click ** Start** in the sidebar.
 
 ---
 
