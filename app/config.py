@@ -36,7 +36,7 @@ APP_TITLE       = "MedCommand — Hospital Emergency Operations Center"
 APP_ICON        = "⚕️"
 FOOTER_TEXT     = "MedCommand Hospital Operations Center v2.0  ·  Simulation · ML · Analytics · SQLite · Streamlit"
 
-# ── Doctor data ────────────────────────────────────────────────────────────────
+── Doctor data ────────────────────────────────────────────────────────────────
 DOCTOR_ROSTER = [
     {"name": "Dr. Adeel Khan",  "dept": "Emergency",    "initials": "AK", "color": "#0ea5e9"},
     {"name": "Dr. Sara Malik",  "dept": "Cardiology",   "initials": "SM", "color": "#10b981"},
