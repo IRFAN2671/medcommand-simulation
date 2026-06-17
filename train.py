@@ -69,7 +69,7 @@ def main() -> None:
             bar = "█" * int(imp * 40)
             print(f"    {feat:<22} {bar}  {imp:.3f}")
 
-    print("\n  Run the dashboard: streamlit run app.py\n")
+    print("\n  Run  dashboard: streamlit run app.py\n")
 
 
 if __name__ == "__main__":
