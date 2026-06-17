@@ -4,7 +4,7 @@ MedCommand — Hospital Emergency Operations Center
 
 A complete university final-year project combining **discrete-event simulation**, **dynamic machine learning**, **SQLite audit logging**, and a **professional Streamlit dashboard** with light/dark theme switching.
 
----
+--
 
 ## Features
 
