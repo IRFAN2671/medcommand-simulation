@@ -1,10 +1,10 @@
-"""
+
 MedCommand — Hospital Emergency Operations Center v2.0
 Professional Streamlit Dashboard
 
 Run:
     streamlit run app.py
-"""
+
 
 from __future__ import annotations
 
