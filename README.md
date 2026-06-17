@@ -1,4 +1,4 @@
-MedCommand — Hospital Emergency Operations Center 
+MedCommand — Hospital Emergency Operations Center
 
 > AI-Powered Hospital Emergency Simulation, Machine Learning Wait-Time Prediction, and Professional Real-Time Dashboard
 
