@@ -1,4 +1,4 @@
-# MedCommand — Hospital Emergency Operations Center 
+MedCommand — Hospital Emergency Operations Center 
 
 > AI-Powered Hospital Emergency Simulation, Machine Learning Wait-Time Prediction, and Professional Real-Time Dashboard
 
@@ -195,7 +195,7 @@ All settings are in `app/config.py`:
 
 ---
 
-## Academic Notes
+ Academic Notes
 
 - Primary focus: simulation engine as a realistic ED model
 - ML is trained on simulation-generated data (supervised, regression)
