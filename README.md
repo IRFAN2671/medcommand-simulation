@@ -195,7 +195,7 @@ All settings are in `app/config.py`:
 
 ---
 
- Academic Notes
+ Academic Notes 
 
 - Primary focus: simulation engine as a realistic ED model
 - ML is trained on simulation-generated data (supervised, regression)
