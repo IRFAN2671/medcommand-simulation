@@ -43,7 +43,7 @@ def main() -> None:
 
     print("► Loading / generating training data …")
     data = trainer.load_or_generate_data(
-        regenerate=args.regenerate_data,
+        regenerate=args.regenerate_data, ,
         num_runs=args.runs,
         ticks_per_run=args.ticks,
     )
