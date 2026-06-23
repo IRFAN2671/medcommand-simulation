@@ -4,7 +4,7 @@
     "random_forest": {
       "model": "Random Forest",
       "rmse": 4.822,
-      "mae": 2.059,
+      "mae": 2.059,   
       "r2": 0.9433,
       "accuracy_pct": 94.33
     },
